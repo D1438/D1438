@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=D1438&theme=highcontrast&layout=compact&langs_count=20">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username="D1438">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=D1438">
 </a>
 
 <!--
